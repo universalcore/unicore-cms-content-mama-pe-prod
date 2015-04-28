@@ -6,15 +6,18 @@
   "primary_category": "66ecc71139fa489d991eef9d5c214d99", 
   "created_at": "2015-04-22T10:15:08+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-04-22T10:55:57.184276+00:00", 
+  "modified_at": "2015-04-28T13:32:57.221757+00:00", 
   "_version": {
     "package_version": "1.0.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "bdb044a3860646c6868262908840c7a4", 
+    "066eb70da4a8428fb89083be614ed0e0"
+  ], 
   "id": null, 
   "content": "Creado por BabyCenter\r\n\r\nSi eres VIH+, podr\u00edas preguntarte si es bueno amamantar a tu beb\u00e9. \r\n\r\nRecuerda que puedes reducir el riesgo de contagiarle el VIH a tu beb\u00e9 d\u00e1ndole solamente leche de tu pecho y sus pastillas antirretrovirales (ARV) todos los d\u00edas. No olvides llevar a tu beb\u00e9 a al centro de salud a las 6 semanas de nacido para que le hagan la prueba del VIH. \r\n\r\nTu beb\u00e9 va a necesitar mucho alimento para crecer. El mejor alimento para \u00e9l es tu leche, la leche materna. Tu leche est\u00e1 llena de nutrientes y es perfecta para tu beb\u00e9. Es lo \u00fanico que necesita para crecer sano y fuerte. Tambi\u00e9n puede ayudar a protegerlo de algunas enfermedades.\r\n\r\nSi le das leche materna y nada m\u00e1s durante 6 meses, ni siquiera agua, puedes  ayudar a darle el mejor comienzo en la vida. Incluso si necesitas regresar a tu trabajo antes de los 6 meses, puedes sacarte la leche y dejarla lista para que se la den. Tu doctor puede ense\u00f1arte c\u00f3mo hacerlo.\r\n\r\nAprovecha tu valiosa leche y deja que tu beb\u00e9 la tome tan seguido como quiera. D\u00e9jalo que se alimente hasta que haya tomado suficiente. Eso lo va a mantener sano y feliz.\r\n\r\n", 
   "source": "7b0e511b846b44c795050c8017375ecb", 
