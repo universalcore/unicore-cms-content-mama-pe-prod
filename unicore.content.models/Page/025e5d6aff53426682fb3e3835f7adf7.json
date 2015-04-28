@@ -6,15 +6,23 @@
   "primary_category": "2c6ad634e2c24c7586c272348a59a534", 
   "created_at": "2015-04-22T10:02:27+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-04-22T10:47:17.228271+00:00", 
+  "modified_at": "2015-04-28T13:21:31.853603+00:00", 
   "_version": {
     "package_version": "1.0.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "fe2fbc13fb404de1b2a5abc47aa3ef93", 
+    "989c2875da24454084dbf1cb38b317fd", 
+    "caef07708564454fa442ff5f395c7435", 
+    "ec65a854786f424d9b33609ed7e7e615", 
+    "aab111d1f47b482b9f72b0a4fb6f9ad4", 
+    "986ed7a06b064333a42f5681eddadac8", 
+    "70aeda6c2da444429e7302104be97b3e"
+  ], 
   "id": null, 
   "content": "Creado por BabyCenter\r\n\r\nAhora que est\u00e1s embarazada, es importante que trates de comer bien para que tu beb\u00e9 crezca bien. T\u00fa y tu beb\u00e9 necesitan muchos alimentos diferentes. \r\n\r\n\u00a1Una forma f\u00e1cil de hacerlo es comer alimentos de muchos colores diferentes! \r\n\r\nPodr\u00edas hablar con tu familia sobre la comida que necesitas.\r\n\r\nTrata de comer algunos de estos tipos de alimentos todos los d\u00edas:\r\n\r\n - \tFrutas y verduras. Estas protegen a tu beb\u00e9 de la posibilidad de nacer con un problema.\r\n\r\n - \tAlimentos ricos en almid\u00f3n. Estos incluyen pan, arroz, pasta, papas y calabaza. Estos alimentos te dan energ\u00eda.\r\n\r\n - \tAlimentos ricos en prote\u00ednas. Estos incluyen huevos, verduras de hojas verde oscuro, pollo, pescado y carne. Estos alimentos construyen el cuerpo.\r\n\r\n - \tAlimentos ricos en calcio y l\u00e1cteos. Estos incluyen leche y br\u00f3coli. Ayudan a tu beb\u00e9 a desarrollar huesos fuertes.\r\n\r\n", 
   "source": "f4856245d50c48bfbda18f540993b541", 
