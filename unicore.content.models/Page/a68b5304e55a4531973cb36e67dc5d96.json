@@ -6,15 +6,22 @@
   "primary_category": "2c6ad634e2c24c7586c272348a59a534", 
   "created_at": "2015-04-22T10:04:37+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-04-22T10:51:50.369507+00:00", 
+  "modified_at": "2015-04-28T13:23:00.285146+00:00", 
   "_version": {
     "package_version": "1.0.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "025e5d6aff53426682fb3e3835f7adf7", 
+    "caef07708564454fa442ff5f395c7435", 
+    "989c2875da24454084dbf1cb38b317fd", 
+    "4fef7c99087c40fba7d4af60ee76e97a", 
+    "d26370771c16410ba7ea66f270f3420d", 
+    "489df8b1a6454736854d5c2cb608c3b4"
+  ], 
   "id": null, 
   "content": "Creado por BabyCenter\r\n\r\nTu beb\u00e9 y t\u00fa necesitan mucho calcio. Come o bebe alimentos que contengan calcio todos los d\u00edas. Te ayudar\u00e1n a ti a estar sana y a tu beb\u00e9 a desarrollar huesos y dientes fuertes.\r\n\r\nEl calcio es un mineral que ayuda a que crezcan los huesos y los dientes. Necesitas mucho calcio, porque tus huesos tambi\u00e9n est\u00e1n creciendo. Tambi\u00e9n podr\u00eda ayudar a disminuir el riesgo de tener alta la presi\u00f3n.\r\n\r\nEl calcio forma los huesos y los dientes de tu beb\u00e9. Tambi\u00e9n ayuda a controlar el ritmo de su coraz\u00f3n. Si no est\u00e1s tomando suficiente calcio, a tu beb\u00e9 no le va a faltar, pero a ti s\u00ed. Eso es porque, cuando se trata de minerales, tu cuerpo pone a tu beb\u00e9 primero y se los pasa a \u00e9l.\r\n\r\nPuedes obtener calcio de:\r\n\r\n - \tleche de vaca, leche de soya y leche de coco\r\n\r\n - \tverduras de hojas verdes\r\n\r\n - \tpescado, sobre todo pescado aceitoso como las sardinas\r\n\r\nPara ayudarte a absorber el calcio, tambi\u00e9n necesitas asegurarte de obtener suficiente vitamina D. Tu cuerpo hace vitamina D a partir de la luz del sol. Tambi\u00e9n es posible que recibas pastillas de calcio de tu doctor.\r\n\r\n", 
   "source": "134592c784d444b482df8e653c744400", 
