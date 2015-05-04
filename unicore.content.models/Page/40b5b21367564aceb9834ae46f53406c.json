@@ -1,0 +1,32 @@
+{
+  "subtitle": "SPA How to keep my baby warm?", 
+  "description": "S\u00e9calo, c\u00e1rgalo y t\u00e1palo r\u00e1pido", 
+  "language": "spa_CO", 
+  "title": "\u00bfC\u00f3mo puedo mantener calientico a mi beb\u00e9?", 
+  "primary_category": "66ecc71139fa489d991eef9d5c214d99", 
+  "created_at": "2015-04-22T10:13:41+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-04-28T13:31:50.672867+00:00", 
+  "_version": {
+    "package_version": "1.0.1", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "aa9dc4e9054347f28844185ee28eaf2d", 
+    "e5e335116e044d06860fbe520c81aafa"
+  ], 
+  "id": null, 
+  "content": "Creado por BabyCenter\r\n\r\nEs importante mantener calientico a tu beb\u00e9 en cuanto nazca. Los beb\u00e9s no se pueden adaptar a la nueva y m\u00e1s fr\u00eda temperatura que existe fuera de la matriz y pueden perder calor muy r\u00e1pido.\r\n\r\nCuando nazca tu beb\u00e9 va a estar mojado, as\u00ed que aseg\u00farate de que lo sequen. \r\n\r\nNo necesita que lo ba\u00f1en durante al menos 6 horas. En las primeras 6 horas de la vida de tu beb\u00e9, s\u00f3lo limpia el cord\u00f3n. El resto de su cuerpecito todav\u00eda no necesita que lo ba\u00f1en. Ba\u00f1arlo demasiado pronto podr\u00eda hacer que le diera fr\u00edo y se enfermara.\r\n\r\nP\u00eddele a la persona que te atienda durante el parto que acueste a tu beb\u00e9 en tu pecho desnudo. Tu calor va a evitar que le d\u00e9 demasiado fr\u00edo. Abr\u00e1zalo bien para que no se resbale y se caiga.\r\n\r\nPon una cobija limpia y calientica sobre ustedes dos. Esto har\u00e1 que no se escape el calor. Puedes amarr\u00e1rtela, como un cargador, para mantenerlo seguro. Ponle tambi\u00e9n un gorrito en la cabeza. Los beb\u00e9s pierden mucho calor por la cabeza.\r\n\r\nMantener a tu beb\u00e9 calientico mediante el contacto de piel con piel tambi\u00e9n les dar\u00e1 tiempo a tu beb\u00e9 y a ti para conocerse. \u00a1Puedes ver a la personita que te estuvo pateando todo ese tiempo! Al cargar as\u00ed a tu beb\u00e9 tambi\u00e9n le ayudas a alcanzar tu pecho f\u00e1cilmente y empezar a alimentarse.\r\n\r\n", 
+  "source": "94b4ab49d63844a884103e7ad3600efa", 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 46, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "spa-how-keep-my-baby-warm", 
+  "uuid": "40b5b21367564aceb9834ae46f53406c"
+}

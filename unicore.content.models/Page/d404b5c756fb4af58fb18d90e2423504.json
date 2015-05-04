@@ -1,0 +1,36 @@
+{
+  "subtitle": "SPA Danger signs at the birth", 
+  "description": "Inf\u00f3rmate de cu\u00e1ndo buscar ayuda", 
+  "language": "spa_CO", 
+  "title": "Se\u00f1ales de peligro en el nacimiento", 
+  "primary_category": "2c6ad634e2c24c7586c272348a59a534", 
+  "created_at": "2015-04-22T10:12:01+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-04-28T13:26:24.224348+00:00", 
+  "_version": {
+    "package_version": "1.0.1", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "aa9dc4e9054347f28844185ee28eaf2d", 
+    "1dee82478621448988fe7f63e24b82c3", 
+    "e62cdf1cb99a4a46abe5e147b14b062d", 
+    "40b5b21367564aceb9834ae46f53406c", 
+    "87f3186b33304554834b5f9a2e884013", 
+    "70aeda6c2da444429e7302104be97b3e"
+  ], 
+  "id": null, 
+  "content": "Creado por BabyCenter\r\n\r\nSi notas que pasa cualquiera de estas cosas, ve al doctor o al hospital tan pronto como puedas.\r\n\r\n**T\u00fa:**\r\n\r\n - \tSi se te ha roto la fuente, pero despu\u00e9s de 6 horas todav\u00eda no ha empezado el trabajo de parto.\r\n\r\n - \tSi tus contracciones duran m\u00e1s de 12 horas, pero el beb\u00e9 todav\u00eda no ha nacido.\r\n\r\n - \tSi est\u00e1s sangrando mucho y la sangre empapa m\u00e1s de 2 o 3 toallas higi\u00e9nicas en 15 minutos.\r\n\r\n - \tSi tu placenta no ha salido y ya ha pasado m\u00e1s de 1 hora desde el nacimiento de tu beb\u00e9.\r\n\r\n**Tu beb\u00e9:**\r\n\r\n - \tNotas que tu beb\u00e9 no llora al nacer o tiene dificultades para respirar.\r\n\r\n - \tNotas que tu beb\u00e9 no puede amamantar.\r\n\r\n - \tNotas que tu beb\u00e9 tiene fiebre o est\u00e1 fr\u00edo.\r\n\r\n - \tTu beb\u00e9 es muy peque\u00f1o (pesa menos de 1 kilo y medio o ha nacido antes de la semana 32 de embarazo).\r\n\r\n - \tTu beb\u00e9 tiene convulsiones.\r\n\r\n", 
+  "source": "67e164d45f7b404aa1a7a46630859440", 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 49, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "spa-danger-signs-birth", 
+  "uuid": "d404b5c756fb4af58fb18d90e2423504"
+}

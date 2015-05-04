@@ -1,0 +1,34 @@
+{
+  "subtitle": "SPA I have pain in my belly", 
+  "description": "Cu\u00e1ndo preocuparte si te duele la barriga", 
+  "language": "spa_CO", 
+  "title": "Me duele la barriga", 
+  "primary_category": "2c6ad634e2c24c7586c272348a59a534", 
+  "created_at": "2015-04-22T09:38:38+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-04-28T13:12:46.748687+00:00", 
+  "_version": {
+    "package_version": "1.0.1", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "8c1d4b6e18c14ddb887c9df66fa3e8c2", 
+    "5f28d669d4864e80b833743c1d046442", 
+    "aedfb6dab9204c51b102d12fea03b5b0", 
+    "7aa6c67448024a978f5b179399614035"
+  ], 
+  "id": null, 
+  "content": "Creado por BabyCenter\r\n\r\nLos dolores y los c\u00f3licos en la barriga son normales cuando est\u00e1s embarazada. Por lo general no son nada de qu\u00e9 preocuparse. Tu cuerpo est\u00e1 cambiando para sostener a tu beb\u00e9 y tu matriz se est\u00e1 estirando para que tu beb\u00e9 quepa en ella a medida que crece.\r\n\r\nPor lo general, descansar alivia los c\u00f3licos. Trata de relajarte. Si\u00e9ntate un rato con los pies en alto, o acu\u00e9state del lado opuesto a donde sientes el dolor.\r\n\r\nAlgunas veces el dolor en la barriga puede significar que algo anda mal:\r\n\r\n - \tA principios del embarazo, los c\u00f3licos o dolores en el abdomen, el sangrado y el dolor en el centro de la parte de abajo de la barriga, podr\u00edan significar que est\u00e1s perdiendo a tu beb\u00e9. Ve al doctor si te sientes as\u00ed. Si est\u00e1s sangrando mucho y est\u00e1s empapando m\u00e1s de 1 toalla higi\u00e9nica por hora, necesitas irte de inmediato a un centro de salud.\r\n\r\n - \tLos c\u00f3licos dolorosos que empiezan en un lado y se extienden por toda tu barriga podr\u00edan significar que tu embarazo est\u00e1 creciendo en el lugar equivocado. Tambi\u00e9n podr\u00edas tener sangrado oscuro y como con agua. Esto sucede temprano en el embarazo. Ve al doctor de inmediato.\r\n\r\n - \tCuando ya est\u00e1 avanzado tu embarazo, si sientes dolor en la parte baja de la barriga y en la espalda, junto con c\u00f3licos en la barriga, y tienes diarrea, podr\u00eda significar que tu beb\u00e9 est\u00e1 tratando de nacer antes de tiempo. Ve al doctor si tienes dolores frecuentes ya avanzado tu embarazo, si tienes sangrado o si se te rompe la fuente (si te sale l\u00edquido de la vagina). \r\n\r\n", 
+  "source": "4526db6148e4481583f437df17147ca8", 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 90, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "spa-i-have-pain-my-belly", 
+  "uuid": "8f08a6a4d3c94fa88f1cc6b82c22b493"
+}

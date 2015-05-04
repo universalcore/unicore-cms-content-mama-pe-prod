@@ -1,0 +1,33 @@
+{
+  "subtitle": "SPA When will my baby smile?", 
+  "description": "Cuando tenga de 6 a 8 semanas", 
+  "language": "spa_CO", 
+  "title": "\u00bfCu\u00e1ndo va a sonre\u00edr mi beb\u00e9?", 
+  "primary_category": "66ecc71139fa489d991eef9d5c214d99", 
+  "created_at": "2015-04-22T10:30:04+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-04-28T13:43:02.284365+00:00", 
+  "_version": {
+    "package_version": "1.0.1", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "fcfe1bb0069a40999f5ccb900ad13acc", 
+    "0b2d48245ccf4bb1a275419cead7fe54", 
+    "98c660c7f9e6454389b5c4c77d6e6e97"
+  ], 
+  "id": null, 
+  "content": "Creado por BabyCenter\r\n\r\nMuchos beb\u00e9s sonr\u00eden por primera vez cuando tienen entre 6 y 8 semanas, pero tu beb\u00e9 podr\u00eda sonre\u00edr antes o despu\u00e9s.\r\n\r\nSi quieres animar a tu beb\u00e9 a que sonr\u00eda, busca un momento en el que est\u00e9 calmada y bien despierta. Un momento en el que te mire y examine tu cara.\r\n\r\nCarga a tu beb\u00e9 frente a ti y h\u00e1blale, con tu cara cerca de la suya. Si a tu beb\u00e9 no le gusta esto, al\u00e9jala un poquito.\r\n\r\nAl principio podr\u00eda mirarte durante un buen rato, as\u00ed que sigue habl\u00e1ndole suavecito \u00a1y pod\u00eda premiarte con su primera sonrisa!\r\n\r\nPoco tiempo despu\u00e9s de que haya aprendido a sonre\u00edr, \u00a1tu beb\u00e9 se podr\u00e1 re\u00edr!\r\n\r\nLa mayor\u00eda de los beb\u00e9s empiezan a re\u00edrse entre los 2 y los 4 meses. Prueba hacer caras y sonidos chistosos, o hazle cosquillas.\r\n\r\n", 
+  "source": "5855d9ac4d4d45dd9718780746ad8a18", 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 11, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "spa-when-will-my-baby-smile", 
+  "uuid": "408a4484006b4ce394ae04c2fd9b26a9"
+}
