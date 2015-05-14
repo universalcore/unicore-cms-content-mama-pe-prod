@@ -2,31 +2,31 @@
   "subtitle": "SPA How to swaddle your baby", 
   "description": "Envolverlo bien puede ayudarlo a dormir", 
   "language": "spa_CO", 
-  "title": "C\u00f3mo envolver a tu beb\u00e9", 
+  "title": "C\u00f3mo envolver a tu bebe", 
   "primary_category": "66ecc71139fa489d991eef9d5c214d99", 
   "created_at": "2015-04-22T10:20:59+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-04-28T13:38:02.852476+00:00", 
+  "modified_at": "2015-05-14T11:10:21.912600+00:00", 
   "_version": {
     "package_version": "1.0.1", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
-    "cc0a2403094c4d21bcf51f11eb5a8a76", 
+    "b3af63bf29854fa6866d9cd0d691fa90", 
     "6984013e04a045fda47d2ae69da3f756", 
-    "b3af63bf29854fa6866d9cd0d691fa90"
+    "cc0a2403094c4d21bcf51f11eb5a8a76"
   ], 
   "id": null, 
-  "content": "Creado por BabyCenter\r\n\r\nNecesitas un trapo limpio o una cobija liviana lo suficientemente grande para envolverla alrededor de tu beb\u00e9 y que sobre un poco para ajustarla. Pon el trapo limpio o la cobija en una superficie plana, como una cama.  Col\u00f3cala en forma de rombo, con la punta arriba, y dobla la esquina de arriba. Pon ah\u00ed a tu beb\u00e9 boca arriba, con el cuello en el lugar donde doblaste la cobija y su cabecita hacia afuera de la cobija o trapo.\r\n\r\nSost\u00e9n el bracito derecho de tu beb\u00e9 estirado (sin doblar) junto a su cuerpo. Jala la esquina izquierda de la cobija sobre su brazo derecho y cr\u00fazala sobre su cuerpo. Luego mete la cobija entre su brazo izquierdo y su cuerpo, y haz rodar a tu beb\u00e9 hacia tu izquierda para poder meter lo que quede de la cobija debajo de su espalda. Envu\u00e9lvelo bien, asegur\u00e1ndote de que tu beb\u00e9 pueda doblar sus caderas hacia arriba y hacia afuera.\r\n\r\nSost\u00e9n el brazo izquierdo de tu beb\u00e9 y jala la esquina de abajo hacia arriba, por encima de su hombro izquierdo. Si te sobra cobija ponla doblada debajo de su brazo izquierdo.\r\n\r\nEstira la esquina derecha, que est\u00e1 suelta, j\u00e1lala por encima de tu beb\u00e9 hasta el otro lado y ru\u00e9dalo un poco hacia tu derecha, para que puedas envolver la esquina alrededor de su espalda.\r\n\r\nTen cuidado de no apretar demasiado el trapo o la cobija, o tu beb\u00e9 podr\u00eda asfixiarse.\r\n\r\n", 
+  "content": "Creado por BabyCenter\r\n\r\nNecesitas un trapo limpio o una manta lo suficientemente grande para envolverla alrededor de tu bebe y que sobre un poco. Pon el trapo limpio o la manta en una superficie plana, como una cama.  Col\u00f3cala en forma de rombo, con la punta arriba, y dobla la esquina de arriba. Pon ah\u00ed a tu bebe boca arriba, con el cuello en el lugar donde doblaste la manta.\r\n\r\nSost\u00e9n el bracito derecho de tu bebe estirado (sin doblar) junto a su cuerpo. Jala la esquina izquierda de la manta sobre su brazo derecho y cr\u00fazala sobre su cuerpo. Luego mete la manta entre su brazo izquierdo y su cuerpo, y haz rodar a tu bebe hacia tu izquierda para poder meter lo que quede de la manta debajo de su espalda. Envu\u00e9lvelo bien, asegur\u00e1ndote de que tu bebe pueda doblar sus caderas hacia arriba y hacia afuera.\r\n\r\nSost\u00e9n el brazo izquierdo de tu bebe y jala la esquina de abajo hacia arriba, por encima de su hombro izquierdo. Si te sobra manta ponla doblada debajo de su brazo izquierdo.\r\n\r\nEstira la esquina derecha, que est\u00e1 suelta, j\u00e1lala por encima de tu bebe hasta el otro lado y ru\u00e9dalo un poco hacia tu derecha, para que puedas envolver la esquina alrededor de su espalda.\r\n\r\nTen cuidado de no apretar demasiado el trapo o la manta, o tu bebe podr\u00eda asfixiarse.\r\n\r\n", 
   "source": "e74f9331115c40f18f3c77bfa26d5345", 
   "featured": false, 
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 27, 
+  "position": 28, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "spa-how-swaddle-your-baby", 
   "uuid": "376734916ace44abba7c461dd2e2157a"
