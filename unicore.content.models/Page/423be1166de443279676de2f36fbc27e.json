@@ -6,26 +6,26 @@
   "primary_category": "66ecc71139fa489d991eef9d5c214d99", 
   "created_at": "2015-04-22T10:18:42+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-04-28T13:35:40.806377+00:00", 
+  "modified_at": "2015-05-14T11:07:42.321291+00:00", 
   "_version": {
     "package_version": "1.0.1", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
-    "87f3186b33304554834b5f9a2e884013", 
-    "86ff08000d164014a91a57c31597de81"
+    "86ff08000d164014a91a57c31597de81", 
+    "87f3186b33304554834b5f9a2e884013"
   ], 
   "id": null, 
-  "content": "Creado por BabyCenter\r\n\r\nEs muy importante cuidar de tu propio cuerpo al igual que cuidar a tu beb\u00e9. Si te sientes fuerte y bien, podr\u00e1s enfrentar mejor los retos de la vida diaria.\r\n\r\nEs f\u00e1cil concentrar toda tu atenci\u00f3n en tu beb\u00e9 y olvidarte de ti misma, pero tu cuerpo acaba de pasar por una experiencia fuerte. Si tienes problemas, haz algo r\u00e1pido.\r\n\r\nPlanea con tiempo por si hubiera una emergencia. Decide qui\u00e9n cuidar\u00eda a tus otros hijos si t\u00fa o tu beb\u00e9 est\u00e1n enfermos. Tambi\u00e9n decide c\u00f3mo llegar\u00edas donde un doctor, un centro m\u00e9dico o un hospital y  qui\u00e9n ir\u00eda contigo.\r\n\r\nTrata de encontrar la ruta m\u00e1s r\u00e1pida y la forma de transporte m\u00e1s r\u00e1pida. Podr\u00edas necesitar dinero para esto, as\u00ed que empieza a ahorrar poco a poco por si acaso. Esto te dar\u00e1 tranquilidad.\r\n\r\nSi tienes alguna de estas se\u00f1ales, ve a un doctor en seguida.\r\n\r\n - \tEst\u00e1s sangrando mucho.\r\n\r\n - \tNo puedes respirar y te duele el pecho.\r\n\r\n - \tTienes fiebre y te sientes mal.\r\n\r\n - \tNo puedes orinar.\r\n\r\n - \tTu barriga est\u00e1 adolorida.\r\n\r\n - \tTe sale de la vagina un l\u00edquido pegajoso que huele mal.\r\n\r\n - \tTe arde cuando orinas.\r\n\r\nObt\u00e9n ayuda pronto para que puedas recuperarte pronto.\r\n\r\n", 
+  "content": "Creado por BabyCenter\r\n\r\nEs muy importante cuidar de tu propio cuerpo al igual que cuidar a tu bebe. Si te sientes fuerte y bien podr\u00e1s enfrentar mejor los retos de la vida diaria.\r\n\r\nEs f\u00e1cil concentrar toda tu atenci\u00f3n en tu bebe y olvidarte de ti misma, pero tu cuerpo acaba de pasar por una experiencia fuerte. Si tienes problemas, haz algo r\u00e1pido.\r\n\r\nPlanea con tiempo por si hubiera una emergencia. Decide qui\u00e9n cuidar\u00eda a tus otros hijos si t\u00fa o tu bebe est\u00e1n enfermos. Tambi\u00e9n decide c\u00f3mo llegar\u00edas a un centro de salud o a ver a una comadrona, enfermera o doctor, y a qui\u00e9n llevar\u00edas contigo.\r\n\r\nTrata de encontrar la ruta m\u00e1s r\u00e1pida y la forma de transporte m\u00e1s r\u00e1pida. Podr\u00edas necesitar dinero para esto, as\u00ed que empieza a ahorrar poco a poco por si acaso. Esto te har\u00e1 sentir tranquila.\r\n\r\nSi tienes alguna de estas se\u00f1ales, visita a la comadrona, enfermera o doctor en seguida para pedir ayuda.\r\n\r\n - \tEst\u00e1s sangrando mucho.\r\n\r\n - \tNo puedes respirar y te duele el pecho.\r\n\r\n - \tTienes fiebre y te sientes mal.\r\n\r\n - \tNo puedes orinar.\r\n\r\n - \tTu barriga est\u00e1 adolorida.\r\n\r\n - \tTe sale de la vagina un l\u00edquido pegajoso que huele mal.\r\n\r\n - \tTe arde cuando orinas.\r\n\r\nObt\u00e9n ayuda pronto para que puedas recuperarte pronto.\r\n\r\n", 
   "source": "d331f1f63ebc4719b2648a0d65704798", 
   "featured": false, 
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 33, 
+  "position": 34, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "spa-postnatal-danger-signs", 
   "uuid": "423be1166de443279676de2f36fbc27e"
