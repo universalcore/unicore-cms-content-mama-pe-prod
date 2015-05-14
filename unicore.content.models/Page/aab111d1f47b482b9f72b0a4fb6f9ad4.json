@@ -6,12 +6,12 @@
   "primary_category": "2c6ad634e2c24c7586c272348a59a534", 
   "created_at": "2015-04-22T10:03:12+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-04-28T13:22:07.655116+00:00", 
+  "modified_at": "2015-05-14T10:46:28.121589+00:00", 
   "_version": {
     "package_version": "1.0.1", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -19,13 +19,13 @@
     "132c94fe88dc4d99839267d717de3ee8"
   ], 
   "id": null, 
-  "content": "Creado por BabyCenter\r\n\r\nLa comida rancia o da\u00f1ada puede enfermarte. Trata de cocinar comida fresca todos los d\u00edas. Mant\u00e9n limpia el \u00e1rea donde cocinas y comes, y guarda la comida en un lugar fresco y seco.\r\n\r\n - \tCocina bien toda la carne y el pollo, hasta que no tengan pedazos rosados.\r\n\r\n - \tCocina bien los huevos, hasta que est\u00e9n firmes. Hierve la leche para matar los microbios que pudiera tener.\r\n\r\n - \tSi compras tu comida en puestos de comida, escoge los que tengan \u00e1reas de trabajo limpias. Aseg\u00farate de que el puesto que escojas sea popular, para estar segura de que la comida no ha estado ah\u00ed durante demasiado tiempo y de que ha sido segura para otras personas.\r\n\r\n - \tL\u00e1vate las manos con jab\u00f3n antes de preparar comida, despu\u00e9s de ir al ba\u00f1o y despu\u00e9s de tocar animales.\r\n\r\n - \tLava toda la loza y los lugares donde cocinas con agua y jab\u00f3n para deshacerte de cualquier resto de comida.\r\n\r\nSi tienes llagas o cortadas en las manos, mantenlas limpias y cubiertas con un trapo limpio.\r\n\r\nMant\u00e9n a los animales lejos del \u00e1rea donde cocinas. Los animales pueden propagar microbios y enfermarte.\r\n\r\n", 
+  "content": "Creado por BabyCenter\r\n\r\nLa comida rancia o echada a perder puede enfermarte. Trata de cocinar comida fresca todos los d\u00edas. Mant\u00e9n limpia el \u00e1rea donde cocinas y comes, y guarda la comida en un lugar fresco y seco.\r\n\r\n - \tCocina bien toda la carne y el pollo, hasta que no tengan pedazos rosados.\r\n\r\n - \tCocina bien los huevos, hasta que est\u00e9n firmes. Hierve la leche para matar los microbios que pudiera tener.\r\n\r\n - \tSi compras tu comida en puestos de comida, escoge los que tengan \u00e1reas de trabajo limpias. Aseg\u00farate de que el puesto que escojas sea popular, para estar segura de que la comida no ha estado ah\u00ed durante demasiado tiempo y de que ha sido segura para otras personas.\r\n\r\n - \tL\u00e1vate las manos con jab\u00f3n antes de preparar comida, despu\u00e9s de ir al ba\u00f1o y despu\u00e9s de tocar animales.\r\n\r\n - \tLava todos los trastes y los lugares donde cocinas con agua jabonosa para deshacerte de cualquier resto de comida.\r\n\r\nSi tienes llagas o cortadas en las manos, mantenlas limpias y cubiertas con un trapo limpio.\r\n\r\nMant\u00e9n a los animales lejos del \u00e1rea donde cocinas. Los animales pueden propagar microbios y enfermarte.\r\n\r\n", 
   "source": "f1c9d767725c4c4ab175e30c144ffaed", 
   "featured": false, 
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 68, 
+  "position": 69, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "spa-how-cook-food-safely", 
   "uuid": "aab111d1f47b482b9f72b0a4fb6f9ad4"
