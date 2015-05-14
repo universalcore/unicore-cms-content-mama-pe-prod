@@ -1,32 +1,32 @@
 {
   "subtitle": "SPA Can I drink liqueur?", 
-  "description": "El alcohol les hace da\u00f1o a ti y a tu beb\u00e9", 
+  "description": "El alcohol les hace da\u00f1o a ti y a tu bebe", 
   "language": "spa_CO", 
   "title": "\u00bfPuedo beber alcohol?", 
   "primary_category": "2c6ad634e2c24c7586c272348a59a534", 
   "created_at": "2015-04-22T09:45:50+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-04-28T13:20:04.362971+00:00", 
+  "modified_at": "2015-05-14T10:41:38.209459+00:00", 
   "_version": {
     "package_version": "1.0.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
-    "8ee65715d9cc45a1aa6617b31937622c", 
+    "025e5d6aff53426682fb3e3835f7adf7", 
     "5bd901a5b5a9460aa4a8da8ccc63b41a", 
-    "025e5d6aff53426682fb3e3835f7adf7"
+    "8ee65715d9cc45a1aa6617b31937622c"
   ], 
   "id": null, 
-  "content": "Creado por BabyCenter\r\n\r\nEs mejor no beber alcohol cuando est\u00e1s embarazada, y tampoco cuando est\u00e1s amamantando. Esto mantendr\u00e1 a tu beb\u00e9 seguro y sano.\r\n\r\nUna cantidad muy peque\u00f1a de alcohol por lo general es segura, y si tomaste un poco de alcohol antes de saber que estabas embarazada, no te preocupes. Pero es mejor no tomar nada de alcohol cuando est\u00e1s embarazada. \r\n\r\nEsta es la raz\u00f3n: el alcohol es una sustancia da\u00f1ina. Cuando tomas alcohol, alcanza r\u00e1pidamente a tu beb\u00e9 a trav\u00e9s de tu sangre. Beber mucho puede causar la p\u00e9rdida del beb\u00e9 o un nacimiento prematuro. Tomar demasiado alcohol puede incluso aumentar el riesgo de que tu beb\u00e9 nazca muerto.\r\n\r\nSi tomas demasiado alcohol durante el embarazo, puede da\u00f1ar las c\u00e9lulas de tu beb\u00e9 para siempre. Esto podr\u00eda afectar c\u00f3mo se forman la cara, los \u00f3rganos y el cerebro de tu beb\u00e9.\r\n\r\nRecuerda que muchas veces, las medicinas tradicionales del mercado contienen alcohol, \u00a1as\u00ed que no son nada buenas para ti! Son malas para ti y para tu beb\u00e9, as\u00ed que no las tomes.\r\n\r\n", 
+  "content": "Creado por BabyCenter\r\n\r\nEs mejor no beber alcohol cuando est\u00e1s embarazada, y tampoco cuando est\u00e1s amamantando. Esto mantendr\u00e1 a tu bebe seguro y sano.\r\n\r\nUna cantidad muy peque\u00f1a de alcohol por lo general es segura, y si tomaste un poco de alcohol antes de saber que estabas embarazada, no te preocupes. Pero es mejor no tomar nada de alcohol cuando est\u00e1s embarazada. \r\n\r\nEsta es la raz\u00f3n: el alcohol es una sustancia da\u00f1ina. Cuando tomas alcohol, alcanza r\u00e1pidamente a tu bebe a trav\u00e9s de tu sangre. Beber mucho puede causar la p\u00e9rdida del embarazo o un parto prematuro (que el bebe nazca demasiado pronto). Tomar demasiado alcohol puede incluso aumentar el riesgo de que tu bebe nazca muerto.\r\n\r\nSi tomas demasiado alcohol durante el embarazo, puede da\u00f1ar las c\u00e9lulas de tu bebe para siempre. Esto podr\u00eda afectar c\u00f3mo se forman la cara, los \u00f3rganos y el cerebro de tu bebe.\r\n\r\nRecuerda que las medicinas tradicionales del supermercado muchas veces contienen alcohol, \u00a1as\u00ed que no son nada buenas para ti! Son malas para ti y para tu bebe, as\u00ed que no las tomes.\r\n\r\n", 
   "source": "c6dc58d1e07945f69f050e43942be4b1", 
   "featured": false, 
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 75, 
+  "position": 76, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "spa-can-i-drink-liqueur", 
   "uuid": "ec65a854786f424d9b33609ed7e7e615"
