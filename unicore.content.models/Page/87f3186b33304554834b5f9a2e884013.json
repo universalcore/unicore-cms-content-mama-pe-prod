@@ -10,11 +10,17 @@
   "_version": {
     "package_version": "1.0.1", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "8b5fc1c893a0463888322291365778c0", 
+    "86ff08000d164014a91a57c31597de81", 
+    "423be1166de443279676de2f36fbc27e", 
+    "986ed7a06b064333a42f5681eddadac8", 
+    "242e57087cb744e1a06aa8422cd6bc1f"
+  ], 
   "id": null, 
   "content": "Creado por BabyCenter\r\n\r\nEs bueno, y tranquilizador, tener revisiones m\u00e9dicas en las semanas despu\u00e9s de nacido tu bebe, para asegurarte de que los dos est\u00e9n bien. Recuerda que tanto los ni\u00f1os como las ni\u00f1as necesitan la misma cantidad de revisiones. \r\n\r\nVisita a la comadrona, enfermera o doctor con tu bebe al menos una vez durante la primera semana despu\u00e9s del nacimiento y de nuevo cuando tu bebe tenga 6 semanas de nacida. \r\n\r\nLleva a tu bebe a ver a una comadrona, enfermera o doctor de inmediato si:\r\n\r\n - \tSu barriga est\u00e1 demasiado fr\u00eda o demasiado caliente.\r\n\r\n - \tSe le ponen amarillos los ojos, las manos y los pies en su primer d\u00eda de vida.\r\n\r\n - \tNo quiere tomar su leche o no mama bien.\r\n\r\n - \tNo deja de llorar o su llanto suena raro.\r\n\r\n - \tLe da una convulsi\u00f3n, est\u00e1 adormilada y no se mueve mucho, o tiene la piel o las u\u00f1as un poco azules.\r\n\r\n - \tTiene dificultad para respirar o suena rara cuando respira, gru\u00f1e o respira r\u00e1pido.\r\n\r\n - \tVomita durante m\u00e1s de un d\u00eda cada vez que la alimentas, o tiene inflamada la barriga.\r\n\r\n - \tEl \u00e1rea alrededor del cord\u00f3n de tu bebe est\u00e1 roja o huele mal.\r\n\r\nEstas son se\u00f1ales de que tu bebe no est\u00e1 bien y necesita tratamiento en seguida.\r\n\r\n", 
   "source": "13b2f4f9f08b4eee90286e1e6d4aed2f", 
