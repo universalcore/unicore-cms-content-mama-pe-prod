@@ -10,11 +10,14 @@
   "_version": {
     "package_version": "1.0.1", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "bdb044a3860646c6868262908840c7a4", 
+    "066eb70da4a8428fb89083be614ed0e0"
+  ], 
   "id": null, 
   "content": "Creado por BabyCenter\r\n\r\nSi eres VIH+ o tienes SIDA, podr\u00edas preguntarte si es bueno darle el pecho a tu bebe. \r\n\r\nDile a tu doctor o comadrona que eres VIH+ y sigue sus consejos sobre cu\u00e1l es la mejor forma de alimentar a tu bebe.  Esto es porque si eres VIH+ tu leche podr\u00eda tener el virus del VIH y se lo podr\u00edas pasar a tu bebe. \r\n\r\nSi eres VIH+ tu bebe tendr\u00e1 que tomar medicaci\u00f3n antirretroviral (ARV) despu\u00e9s de nacer para estar protegido contra el VIH. Preg\u00fantale a tu doctor sobre las medicinas que ha de tomar tu bebe.\r\n\r\nEn Per\u00fa tu hospital o centro de salud podr\u00eda darte leche de f\u00f3rmula gratis para tu bebe durante 12 meses.  Puedes d\u00e1rsela a tu bebe en una taza o un biber\u00f3n. \r\n\r\nSi usas f\u00f3rmula, tendr\u00e1s que mezclarla con agua limpia y segura. Aseg\u00farate de hervir el agua que vas a usar para preparar f\u00f3rmula para que sea limpia y segura. Limpia tambi\u00e9n la taza o biber\u00f3n que usar\u00e1s para alimentar a tu bebe con agua hervida, o siguiendo el m\u00e9todo que te haya recomendado el doctor. \r\n\r\nLa mejor manera de proteger a tu bebe de VIH es decirle a tu doctor que eres VIH+. El doctor puede ayudarles a ti y a tu bebe a mantenerse sanos al darles medicamentos antirretrovirales. \r\n\r\n", 
   "source": "7b0e511b846b44c795050c8017375ecb", 
