@@ -1,31 +1,31 @@
 {
   "subtitle": "SPA Can I use traditional remedies?", 
-  "description": "Preg\u00fantale antes a tu doctor", 
+  "description": "Preg\u00fantale antes a tu comadrona, enfermera o doctor", 
   "language": "spa_CO", 
   "title": "\u00bfPuedo usar remedios tradicionales?", 
   "primary_category": "2c6ad634e2c24c7586c272348a59a534", 
   "created_at": "2015-04-22T09:46:07+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-04-28T13:20:24.914796+00:00", 
+  "modified_at": "2015-05-14T10:42:10.094787+00:00", 
   "_version": {
     "package_version": "1.0.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
-    "88d549ed207f4ec8bd25abec1ce3df69", 
-    "0aead8b60fec4dbbba5b6e695d05f736"
+    "0aead8b60fec4dbbba5b6e695d05f736", 
+    "88d549ed207f4ec8bd25abec1ce3df69"
   ], 
   "id": null, 
-  "content": "Creado por BabyCenter\r\n\r\nTus amistades y tu familia podr\u00edan ofrecerte remedios caseros, o sugerir que vayas a ver a un curandero. Tal vez hayas usado estas cosas antes, pero ahora que est\u00e1s embarazada debes tener mucho cuidado con lo que tomas.\r\n\r\nCuando est\u00e1s embarazada, y cuando le est\u00e1s dando el pecho a tu beb\u00e9, algunos remedios caseros podr\u00edan hacerle da\u00f1o a tu beb\u00e9. \r\n\r\nUna buena regla es consultar con tu doctor antes de tomarte cualquier remedio o medicina. \u00c9l o ella te dir\u00e1 cu\u00e1les son seguros para ti y para tu beb\u00e9.\r\n\r\nOtra cosa que hay que recordar es no usar pociones para el embarazo. Muchas veces contienen alcohol, \u00a1as\u00ed que no son nada buenas para ti! Son malas para ti y para tu beb\u00e9.\r\n\r\n", 
+  "content": "Creado por BabyCenter\r\n\r\nTus amistades y tu familia podr\u00edan ofrecerte remedios o t\u00f3nicos, o sugerir que vayas a ver a un curandero. Tal vez hayas usado estas cosas antes, pero ahora que est\u00e1s embarazada debes tener mucho cuidado con lo que tomas.\r\n\r\nCuando est\u00e1s embarazada, y cuando le est\u00e1s dando de mamar a tu bebe, algunos remedios y t\u00f3nicos podr\u00edan hacerle da\u00f1o a tu bebe. \r\n\r\nUna buena regla es revisar con tu comadrona, enfermera o doctor antes de tomarte cualquier remedio o medicina. \u00c9l o ella te dir\u00e1 cu\u00e1les son seguros para ti y para tu bebe.\r\n\r\nOtra cosa que hay que recordar es no usar pociones para el embarazo. Muchas veces contienen alcohol, \u00a1as\u00ed que no son nada buenas para ti! Son malas para ti y para tu bebe.\r\n\r\n", 
   "source": "8e6585e7de4346aa840374067a837a4b", 
   "featured": false, 
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 74, 
+  "position": 75, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "spa-can-i-use-traditional-remedies", 
   "uuid": "6753630f3e754d8188b8633ac19d82fc"
