@@ -6,12 +6,12 @@
   "primary_category": "e2a287abe22a47ef8e85c287ad2e5648", 
   "created_at": "2015-04-22T08:50:42+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-12-13T12:28:04.657940+00:00", 
+  "modified_at": "2016-03-10T14:04:21.114173+00:00", 
   "_version": {
     "package_version": "1.0.1", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -26,7 +26,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 191, 
+  "position": 2, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "why-do-i-need-rest", 
   "uuid": "5076fd8410394efe82463d837f6fe3a2"
