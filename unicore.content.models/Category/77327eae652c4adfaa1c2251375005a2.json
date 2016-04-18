@@ -1,0 +1,20 @@
+{
+  "subtitle": "What is BabyCenter?", 
+  "uuid": "77327eae652c4adfaa1c2251375005a2", 
+  "language": "spa_CO", 
+  "title": "Sobre BabyCenter", 
+  "image": "38b969e4048f4838a065ee84dce1849e", 
+  "_version": {
+    "package_version": "1.4.4", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "slug": "about-babycenter", 
+  "source": "58f1e8d1ef1b455fab5ebbd904e332bd", 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "featured_in_navbar": true, 
+  "id": null
+}
